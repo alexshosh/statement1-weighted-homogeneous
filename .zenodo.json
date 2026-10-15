@@ -1,0 +1,22 @@
+{
+  "title": "On a statement of A. N. Shoshitaishvili about weighted homogeneous singularities",
+  "description": "Let F be a weighted homogeneous polynomial with an isolated critical point at 0, with weights w_1 >= ... >= w_n and degree d. Statement 1 of the author's 1976 paper says that if phi(0)=0 and the Jacobian ideal of phi lies in the Jacobian ideal of F, then phi lies in the Jacobian ideal of F and has weighted degree at least d. The second part is equivalent to the absence of nonzero derivations of negative weight of the Milnor algebra of F; since 1995 Shoshitaishvili's Statement 1 has been studied as a conjecture of S. S.-T. Yau, and as the Milnor-algebra case of Halperin's conjecture. We describe the history of the statement and give a proof of the following: with M = min(w_3 - 2w_n, w_1 - 3w_n), the Milnor algebra has no nonzero derivation of weight -q if q > M, or if q > M - (w_{n-1} - w_n) and w_n does not divide d - q; in particular it has no nonzero derivation of negative weight when w_3 <= 2w_n or w_1 <= 3w_n.",
+  "creators": [
+    {
+      "name": "Shoshitaishvili, Alex",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "access_right": "open",
+  "keywords": [
+    "weighted homogeneous singularities",
+    "Milnor algebra",
+    "derivations of negative weight",
+    "Jacobian ideal",
+    "Yau's conjecture",
+    "Halperin's conjecture"
+  ]
+}

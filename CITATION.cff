@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "On a statement of A. N. Shoshitaishvili about weighted homogeneous singularities"
+authors:
+  - family-names: "Shoshitaishvili"
+    given-names: "Alex"
+    affiliation: "Independent Researcher"
+date-released: 2026-10-15
+license: CC-BY-4.0
+type: article
+repository-code: "https://github.com/alexshosh/statement1-weighted-homogeneous"
+keywords:
+  - weighted homogeneous singularities
+  - Milnor algebra
+  - derivations of negative weight
+  - Jacobian ideal
+  - Yau's conjecture
+  - Halperin's conjecture
