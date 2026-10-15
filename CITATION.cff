@@ -9,6 +9,11 @@ date-released: 2026-10-15
 license: CC-BY-4.0
 type: article
 repository-code: "https://github.com/alexshosh/statement1-weighted-homogeneous"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23405205"
+    description: "Zenodo concept DOI (all versions)"
+doi: "10.5281/zenodo.23405205"
 keywords:
   - weighted homogeneous singularities
   - Milnor algebra

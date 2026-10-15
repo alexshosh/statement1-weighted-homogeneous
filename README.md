@@ -2,6 +2,10 @@
 
 Alex Shoshitaishvili (also published as A. N. Shoshitaishvili), Independent Researcher
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23405205.svg)](https://doi.org/10.5281/zenodo.23405205)
+
+(Concept DOI, always resolving to the latest version. The first release, v1.0.0, is [10.5281/zenodo.23405206](https://doi.org/10.5281/zenodo.23405206).)
+
 ## Summary
 
 Statement 1 of the author's 1976 paper (Funct. Anal. Appl. 10:2, 1976) concerns a weighted
@@ -19,7 +23,7 @@ row-by-row criterion (Theorem 6.1).
 ## Files
 
 - `Shoshitaishvili_Statement1.tex` - LaTeX source.
-- `Shoshitaishvili_Statement1.pdf` - compiled preprint (pdflatex, 12 pages).
+- `Shoshitaishvili_Statement1.pdf` - compiled preprint (pdflatex, 11 pages).
 
 ## Building
 
@@ -30,7 +34,7 @@ pdflatex Shoshitaishvili_Statement1.tex
 
 ## Citing this work
 
-See [`CITATION.cff`](CITATION.cff).
+See [`CITATION.cff`](CITATION.cff), or cite via the Zenodo DOI: [10.5281/zenodo.23405205](https://doi.org/10.5281/zenodo.23405205).
 
 ## License
 
